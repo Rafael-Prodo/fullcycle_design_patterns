@@ -12,9 +12,9 @@ Aplicar na prática os principais padrões de projeto para resolver problemas re
 
 ## 🚀 O que você encontra aqui
 
-- **Padrões Criacionais: Exemplos como Singleton, Factory, Builder, entre outros.
-- **Padrões Estruturais: Implementações de Adapter, Composite, Decorator, e mais.
-- **Padrões Comportamentais: Estratégias, Observers, e outros padrões para melhorar a comunicação entre objetos.
+- Padrões Criacionais: Exemplos como Singleton, Factory, Builder, entre outros.
+- Padrões Estruturais: Implementações de Adapter, Composite, Decorator, e mais.
+- Padrões Comportamentais: Estratégias, Observers, e outros padrões para melhorar a comunicação entre objetos.
 
 Cada padrão é acompanhado por explicações teóricas e exemplos práticos de código, facilitando a compreensão e aplicação no dia a dia.
 
@@ -27,12 +27,15 @@ Durante o desenvolvimento deste projeto, os principais aprendizados foram:
 - Escrever código mais coeso e desacoplado.
 - Testar e refatorar soluções para atender aos princípios SOLID.
 
-## 🛠️ Como usar este repositório
+## 🛠️ Como testar este projeto
 
-1. Clone o repositório:
+Este repositório foi projetado para facilitar a execução de testes diretamente via terminal. Siga os passos abaixo:
 
-bash
-git clone https://github.com/Rafael-Prodo/fullcycle_design_patterns.git
+1. Certifique-se de que você possui o Git e um ambiente configurado com a linguagem apropriada.
+2. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/Rafael-Prodo/fullcycle_design_patterns.git
 
 2. Navegue pelos exemplos de padrões organizados por diretórios.
 3. Execute os exemplos para entender o funcionamento de cada padrão.
